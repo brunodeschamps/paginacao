@@ -1,0 +1,36 @@
+div {
+    margin: 30px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 100px;
+    font-family: sans-serif, Verdana, Tahoma;
+    color: rgb(0, 17, 255);
+}
+
+a {
+    border: 2px solid rgb(0, 38, 255);
+    padding: 10px 10px;
+    border-radius: 30px;
+    color: rgb(38, 0, 255);
+    font-family: sans-serif, Verdana, Tahoma;
+    text-decoration: none;
+}
+
+a:hover {
+    background: rgb(47, 0, 255);
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    font-family: sans-serif, Verdana, Tahoma;
+    color: rgb(68, 0, 255);
+    margin-top: 100px;
+}
+
+body {
+    background: url('FundoPaginacao.jpg');
+    background-size: cover;
+}
